@@ -1,5 +1,3 @@
-
-
 #Export all layouts in a project as png files
 import arcpy.mp
 
